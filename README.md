@@ -1,8 +1,3 @@
-Di bawah ini adalah isi **`README.md`** yang sudah saya amankan. Kali ini, semua karakter pagarnya tidak akan hilang saat kamu salin. 
-
-Silakan klik tombol **"Salin" / "Copy"** di pojok kanan atas kotak abu-abu di bawah ini, lalu langsung *paste* ke file `README.md` kamu di VS Code:
-
-```text
 # 🌻 Sunflower File Manager
 
 Aplikasi manajemen berkas (File Manager) berbasis Android lokal yang dirancang dengan antarmuka yang bersih, responsif, dan estetik bertemakan Bunga Matahari. Aplikasi ini memungkinkan pengguna untuk membuat folder virtual serta mengorganisasi berbagai format file asli dari memori internal handphone dengan aman.
